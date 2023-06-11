@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website <br/>
-  <a href="https://vedantsp.vercel.app/" target="_blank"> Click me to visit my Portfolio </a>
+  <a href="https://vedantsp.vercel.app/" target="_blank"> Click here to visit my Portfolio </a>
   <a href="" target="_blank"></a>
 </h2>
 <div align="center">
